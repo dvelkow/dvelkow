@@ -1,5 +1,5 @@
 ### 🧑‍💻 About Me:
-- 🎓 A Computer Science undergrad who is working on ML/ Data Projects.
+- 🎓 A Computer Science undergrad who is working on ML/ Data Science Projects.
 - 🌱 Exploring the world of Machine Learning.
 - 📫 How to reach me: [Email](mailto:dobromirvelkov@gmail.com)
 
