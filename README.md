@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠️ Languages and Frameworks:
+### 🛠️ Languages, Libraries, and Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
