@@ -22,5 +22,5 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; width: 100vw; opacity: 0.3; background: url('https://github.com/dvelkow/dvelkow/assets/71397644/366491ec-61bb-433f-82e5-acb6bc1e94ec'); background-size: cover; background-repeat: no-repeat;background-position:bottom;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; width: 100vw; opacity: 0.2; background: url('https://github.com/dvelkow/dvelkow/assets/71397644/366491ec-61bb-433f-82e5-acb6bc1e94ec'); background-size: cover; background-repeat: no-repeat;background-position:bottom;]{x0000}$}
 
