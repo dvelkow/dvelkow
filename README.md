@@ -22,5 +22,5 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; width: 100vw; opacity: 0.5; background: url('[https://github.com/Aryvyo/Aryvyo/assets/32790578/951b20b0-750b-4b62-afc5-e4827a3050de](https://cdna.artstation.com/p/assets/images/images/026/186/442/large/alec-alonso-ocean.jpg?1588114905)'); background-size: cover; background-repeat: no-repeat;background-position:bottom;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; width: 100vw; opacity: 0.5; background: url('https://cdna.artstation.com/p/assets/images/images/026/186/442/large/alec-alonso-ocean.jpg?1588114905'); background-size: cover; background-repeat: no-repeat;background-position:bottom;]{x0000}$}
 
