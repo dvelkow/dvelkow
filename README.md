@@ -12,12 +12,12 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=MongoDB&)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=Apache-Kafka)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ---
 
