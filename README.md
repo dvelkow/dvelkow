@@ -1,5 +1,6 @@
 ### 🧑‍💻 About Me:
 - 🎓 A Computer Science undergrad who is working on Data Engineering/ ML Projects.
+- ⚡ Developing Python automation solutions for businesses to streamline time-intensive tasks.
 - 🌱 Exploring the world of Machine Learning.
 - 📫 How to reach me: [Email](mailto:dobromirvelkov@gmail.com)
 - 👁 Check out my personal site: [dvelkow.me](https://dvelkow.me)
