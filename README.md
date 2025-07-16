@@ -1,8 +1,12 @@
 Refusing to wageslave in the Post-AI / Pre-ASI window, aiming to be irreplaceable. Currently doubling down on Marketing + WebDev.
+
 ---
-- Reach me here : [Email](mailto:dobromirvelkov@gmail.com)
-- Check out my personal site : [dvelkow.me](https://dvelkow.me)
+
+- Reach me here: [Email](mailto:dobromirvelkov@gmail.com)
+- Check out my personal site: [dvelkow.me](https://dvelkow.me)
+
 ---
+
 Here's my stack either way:
 
 #### Programming Languages
@@ -28,8 +32,3 @@ Here's my stack either way:
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase&logoColor=white)
----
-
-
-
-
