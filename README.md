@@ -1,10 +1,10 @@
 Refusing to wageslave in the Post-AI / Pre-ASI window, aiming to be irreplaceable. Currently doubling down on Marketing + WebDev.
-
+---
 - Reach me here : [Email](mailto:dobromirvelkov@gmail.com)
 - Check out my personal site : [dvelkow.me](https://dvelkow.me)
-
-## Here's my stack either way:
 ---
+Here's my stack either way:
+
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=white)
