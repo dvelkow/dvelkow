@@ -1,3 +1,5 @@
+---
+
 Refusing to wageslave in the Post-AI / Pre-ASI window, aiming to be irreplaceable. Currently doubling down on Marketing + WebDev.
 
 ---
@@ -32,3 +34,5 @@ Here's my stack either way:
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase&logoColor=white)
+
+---
