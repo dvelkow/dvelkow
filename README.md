@@ -1,6 +1,6 @@
 ---
 
-Refusing to wageslave in the Post-AI / Pre-ASI window, aiming to be irreplaceable. Currently doubling down on Marketing + WebDev.
+### Refusing to wageslave in the Post-AI / Pre-ASI window, aiming to be irreplaceable. Currently doubling down on Marketing + WebDev.
 
 ---
 
