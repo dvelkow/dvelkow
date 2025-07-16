@@ -1,4 +1,4 @@
-Refusing to wageslave in the Post-AI / Pre-ASI window, aiming to be ireplaceable. Currently doubling down on Marketing + WebDev.
+Refusing to wageslave in the Post-AI / Pre-ASI window, aiming to be irreplaceable. Currently doubling down on Marketing + WebDev.
 
 - Reach me here : [Email](mailto:dobromirvelkov@gmail.com)
 - Check out my personal site : [dvelkow.me](https://dvelkow.me)
