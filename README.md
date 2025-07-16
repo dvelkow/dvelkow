@@ -1,10 +1,9 @@
-### 🧑‍💻 About Me:
-- 🎓 A Computer Science undergrad who is working on Data Engineering/ ML Projects.
-- ⚡ Developing Python automation solutions for businesses to streamline time-intensive tasks.
-- 🌱 Exploring the world of Machine Learning.
-- 📫 How to reach me: [Email](mailto:dobromirvelkov@gmail.com)
-- 👁 Check out my personal site: [dvelkow.me](https://dvelkow.me)
+Refusing to wageslave in the Post-AI / Pre-ASI window, aiming to be ireplaceable. Currently doubling down on Marketing + WebDev.
 
+- Reach me here : [Email](mailto:dobromirvelkov@gmail.com)
+- Check out my personal site : [dvelkow.me](https://dvelkow.me)
+
+Here's my stack either way:
 ---
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
