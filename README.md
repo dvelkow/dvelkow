@@ -1,6 +1,7 @@
 ---
 
-### I mostly upload vibecoded stuff here, can't bother to write code by hand anymore, no point. Currently doubling down on Marketing + WebDev.
+### I mostly upload vibecoded stuff here, can't bother to write code by hand anymore, no point. 
+### Currently doubling down on Marketing + WebDev.
 
 ---
 
