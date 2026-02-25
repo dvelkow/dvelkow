@@ -1,7 +1,7 @@
 ---
 
+### My biggest strength is spinning up clean product sites and building out the ad funnels that drive people to them. I'm currently doubling down on Marketing + WebDev.
 ### I mostly upload vibecoded stuff here, can't bother to write code by hand anymore, no point. 
-### Currently doubling down on Marketing + WebDev.
 
 ---
 
