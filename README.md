@@ -5,16 +5,16 @@
 
 ---
 
-Listing your stack is jester coded and pointless now — everyone uses everything through AI anyway. Here's what my public projects actually do instead:
+Listing your stack is jester coded and pointless now - I use whatever the fk I want through AI anyway. Here's what my public projects actually do instead:
 
 #### [DAI4](https://github.com/dvelkow/dai4)
-One command, four AI coding assistants side-by-side. Launches a tmux session with Claude, Gemini, Codex, and Omni in a 2x2 grid — mouse support, clipboard integration, vi copy mode, the works. Type `dai4` and you're in.
+One command thru your terminal, four AI coding assistants side-by-side. Launches a tmux session with Claude, Gemini, Codex, and Omni in a 2x2 grid - mouse support, clipboard integration and vi copy mode. Type `dai4` and you're in. (Ofc u need gemini, claude, codex, and omni clis installed for this to work properly)
 
 #### [OMNI](https://github.com/dvelkow/The_Everything_Cli)
-A single terminal prompt to operate your entire life. Tasks, notes, calendars, finances — all the stuff scattered across a dozen apps, pulled into the one place you're already staring at. Type `omni` from anywhere and everything's there.
+A single terminal prompt to operate your entire life. Tasks, notes, calendars, finances - all the stuff scattered across a dozen apps, pulled into the one place you're already staring at. Type `omni` from anywhere and everything's there.
 
 #### [Not Another ToDo App](https://github.com/dvelkow/Yet_Another_ToDo_but_Trello_Insipred)
-A minimal Trello-style desktop task manager. Kanban board with drag-and-drop, completed tasks filtered by day, idea tagging, image attachments via clipboard paste. Built with Electron and SQLite, no framework — just works.
+A minimal Trello-style desktop task manager. Kanban board with drag-and-drop, completed tasks filtered by day, idea tagging, image attachments via clipboard paste. Built with Electron and SQLite, no framework - just works.
 
 ---
 
