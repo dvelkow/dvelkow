@@ -1,39 +1,24 @@
 ---
 
-### My biggest strength is spinning up clean product sites and building out the ad funnels that drive people to them. I'm currently doubling down on Marketing + WebDev.
-### I mostly upload vibecoded stuff here, can't bother to write code by hand anymore, no point. 
+### I spin up clean product sites and build the ad funnels that drive people to them. Currently doubling down on Marketing + WebDev.
+### Everything here is vibecoded. I can't bother to write code by hand anymore, no point.
 
 ---
 
-Here's my stack either way:
+Listing your stack is jester coded and pointless now — everyone uses everything through AI anyway. Here's what my public projects actually do instead:
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=white)
-![ABAP](https://img.shields.io/badge/-ABAP-000?&logo=SAP&logoColor=white)
+#### [DAI4](https://github.com/dvelkow/dai4)
+One command, four AI coding assistants side-by-side. Launches a tmux session with Claude, Gemini, Codex, and Omni in a 2x2 grid — mouse support, clipboard integration, vi copy mode, the works. Type `dai4` and you're in.
 
-#### Frameworks & Libraries
-![Spark](https://img.shields.io/badge/-Spark-000?&logo=Apache-Spark&logoColor=white)
-![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000?&logo=Three.js&logoColor=white)
+#### [OMNI](https://github.com/dvelkow/The_Everything_Cli)
+A single terminal prompt to operate your entire life. Tasks, notes, calendars, finances — all the stuff scattered across a dozen apps, pulled into the one place you're already staring at. Type `omni` from anywhere and everything's there.
 
-#### Databases & Cloud Platforms
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase&logoColor=white)
+#### [Not Another ToDo App](https://github.com/dvelkow/Yet_Another_ToDo_but_Trello_Insipred)
+A minimal Trello-style desktop task manager. Kanban board with drag-and-drop, completed tasks filtered by day, idea tagging, image attachments via clipboard paste. Built with Electron and SQLite, no framework — just works.
 
 ---
 
-- Reach me here: [Email](mailto:dobromirvelkov@gmail.com)
-- Check out my personal site: [dvelkow.me](https://dvelkow.me)
+- [Email](mailto:dobromirvelkov@gmail.com)
+- [dvelkow.me](https://dvelkow.me)
 
 ---
