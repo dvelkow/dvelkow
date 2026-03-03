@@ -1,7 +1,7 @@
 ---
 
 ### I spin up clean product sites and build the ad funnels that drive people to them. Currently doubling down on Marketing + WebDev.
-### Everything here is vibecoded. I can't bother to write code by hand anymore, no point.
+### Most of the stuff here is vibecoded. I can't bother to write code by hand anymore, no point.
 
 ---
 
