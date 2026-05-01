@@ -2,6 +2,8 @@
 
 ### I spin up clean product sites and build the ad funnels that drive people to them. Currently doubling down on Marketing + WebDev.
 
+- [Email](mailto:dobromirvelkov@gmail.com)
+- [dvelkow.me](https://dvelkow.me) (personal site)
 ---
 
 Listing your stack is jester coded and pointless now so here are my most useful projects instead:
@@ -14,8 +16,3 @@ The idea for Omni Cli is for everyone spread across 1000 services to have a sing
 
 #### THE REST
 One-off apps that are more niche than anything, you can see them in my pinned.
-
----
-- [Email](mailto:dobromirvelkov@gmail.com)
-- [dvelkow.me](https://dvelkow.me)
----
