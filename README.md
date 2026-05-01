@@ -12,7 +12,7 @@ One command thru your terminal, four AI coding assistants side-by-side. Launches
 #### [OMNI](https://github.com/dvelkow/The_Everything_Cli)
 The idea for Omni Cli is for everyone spread across 1000 services to have a single dashboard tracking all their most important metrics through API connections. Basically you type "omni" in terminal and see how many sales you had today, ad spend, checkout sessions, form sign-ins, etc. I have it ready as a product in my private repo; the public one is like 25% of the way there, but it's a good building block for it.
 
-#### [THE REST]
+#### THE REST
 One-off apps that are more niche than anything, you can see them in my pinned.
 
 ---
