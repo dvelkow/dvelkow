@@ -5,15 +5,14 @@
 
 ---
 
-Listing your stack is jester coded and pointless now so here are my most useful projects instead:
+Listing your stack is pointless now so here are my most useful projects instead:
 
 #### [DAI4](https://github.com/dvelkow/dai4)
-
-One command thru your terminal, four AI coding assistants side-by-side. Launches a tmux session with Claude, Gemini, Codex, and Omni (one of my apps) in a 2x2 grid - mouse support, clipboard integration and vi copy mode. Type `dai4` and you're in. (Ofc u need gemini, claude, codex, and omni clis installed for this to work properly)
+One command thru your terminal to launch multiple AI coding assistants side-by-side. A tmux session with the CLIs you pick, in a grid with mouse support, clipboard integration and vi copy mode. 
+For example you can run `dai2 claude codex` to get those two side-by-side, or `dai4 claude gemini` for a 2x2 grid with two Claude and two Gemini. Type just dai4 and you launch a 2x2 with claude, codex, gemini, opencode. (Ofc u need the relevant clis installed)
 
 #### [OMNI](https://github.com/dvelkow/The_Everything_Cli)
-
-The idea for Omni Cli is for everyone spread across 1000 services to have a single dashboard tracking all their most important metrics through API connections. Basically you type "omni" in terminal and see how many sales you had today, ad spend, checkout sessions, form sign-ins, etc. I have it ready as a product in my private repo; the public one is like 25% of the way there, but it's a good building block for it.
+The idea for Omni CLI is to give everyone whose data is spread across 1000 services a single dashboard tracking all their most important metrics through API connections. You type `omni` in your terminal and see how many sales you had today, ad spend, checkout sessions, form sign-ins, etc. I have it ready as a product in my private repo; the public one is about 25% of the way there, but it's a solid building block for it.
 
 #### THE REST
 
